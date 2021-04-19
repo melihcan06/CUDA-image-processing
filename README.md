@@ -1,5 +1,5 @@
 # CUDA-image-processing
-
+You can do these functions
 -resize  
 -cut  
 -rgb2gray  
@@ -13,7 +13,7 @@
 -erode  
 -opening  
 -closing  
--reverse  
+-reversing  
 -k-means  
--connected components  
--histogram equalize  
+-finding connected components  
+-histogram equalization
