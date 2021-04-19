@@ -1,5 +1,5 @@
 # CUDA-image-processing
-You can do these functions
+You can do these functions   
 -resize  
 -cut  
 -rgb2gray  
