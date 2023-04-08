@@ -1,4 +1,4 @@
-# CUDA-image-processing
+# CUDA Image Processing
 You can do these functions. You just need Cuda 10.1, OpenCV(for reading and writing image) and C++.   
 -resize  
 -cut  
